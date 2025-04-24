@@ -35,16 +35,13 @@
 ---
 
 ## 📫 Kontakt
-
+📫 How to reach me: [markus-kornmann@outlook.com](mailto:markus-kornmann@outlook.com)
 💼 LinkedIn: [linkedin.com/in/markuskornmann](https://www.linkedin.com/in/markuskornmann/)  
+💼 Xing: [xing.com/in/markuskornmann](https://www.xing.com/markuskornmann/)
 🌐 get-in-IT: [Profil ansehen](https://www.get-in-it.de/profil/xxxxxxxxxx)
 
 ---
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+
+
 
