@@ -30,6 +30,7 @@
 🔹 [NoSpices](https://github.com/Clickybunty/nospices)  
 ➡️ Mehrsprachige Rezeptsuche mit React, Node.js und MariaDB
 
+🔹 <iframe src="https://chat.vercel.ai" width="600" height="400"></iframe>
 
 ---
 
