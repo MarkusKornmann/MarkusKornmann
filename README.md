@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=FF5733&width=600&lines=Hello,+I+Am+Masko!;IT+Specialist+In+Systems+Integration;Specialist+In+Cloud;Fullstack+Webdeveloper;DevOps+Engineer;)](https://github.com/MarkusKornmann)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=FF5733&width=600&lines=Hello,+I+Am+Masko!;IT+Specialist+In+Systems+Integration;Specialist+In+Cloud+Environments;Fullstack+Webdeveloper;DevOps+Engineer;)](https://github.com/MarkusKornmann)
 
 
 🔹 Fachinformatiker für System Integration  
