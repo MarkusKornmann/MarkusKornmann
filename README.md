@@ -8,7 +8,7 @@
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkusKornmann&show_icons=true&theme=transparent&border_color=ffffff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusKornmann&layout=compact&theme=transparent&border_color=ffffff)](https://github.com/MarkusKornmann/github-readme-stats) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkusKornmann&show_icons=true&theme=transparent&border_color=ffffff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusKornmann&layout=compact&theme=transparent&border_color=ffffff)](https://github.com/MarkusKornmann/github-readme-stats) <br> <br> |
 |--------------|--------------|
 
 
