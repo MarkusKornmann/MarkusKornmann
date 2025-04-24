@@ -35,10 +35,10 @@
 ---
 
 ## 📫 Kontakt
-📫 How to reach me: [markus-kornmann@outlook.com](mailto:markus-kornmann@outlook.com)
-💼 LinkedIn: [linkedin.com/in/markuskornmann](https://www.linkedin.com/in/markuskornmann/)  
-💼 Xing: [xing.com/in/markuskornmann](https://www.xing.com/markuskornmann/)
-🌐 get-in-IT: [Profil ansehen](https://www.get-in-it.de/profil/xxxxxxxxxx)
+📫 How to reach me: [markus-kornmann@outlook.com](mailto:markus-kornmann@outlook.com) <br>
+💼 LinkedIn: [linkedin.com/in/markuskornmann](https://www.linkedin.com/in/markuskornmann/) <br>
+💼 Xing: [xing.com/in/markuskornmann](https://www.xing.com/markuskornmann/) <br>
+🌐 get-in-IT: [Profil ansehen](https://www.get-in-it.de/profil/xxxxxxxxxx) <br>
 
 ---
 
