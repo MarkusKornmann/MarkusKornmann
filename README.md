@@ -29,6 +29,9 @@
 🔹 [NoSpices](https://github.com/Clickybunty/nospices)  
 ➡️ Mehrsprachige Rezeptsuche mit React, Node.js und MariaDB
 
+🔹 [Supporty](https://github.com/MarkusKornmann/Supporty)  
+➡️ Support App Ticketsystem-Wissensdatenbank mit React, Node.js und MariaDB
+
 🔹 ![Google Developer](https://img.shields.io/badge/-Google%20Developer-4285F4?style=flat&logo=google&logoColor=white)
 
 
@@ -36,9 +39,9 @@
 
 ## 📫 Kontakt
 📫 How to reach me: [markus-kornmann@outlook.com](mailto:markus-kornmann@outlook.com) <br>
-💼 LinkedIn: [linkedin.com/in/markuskornmann](https://www.linkedin.com/in/markuskornmann/) <br>
-💼 Xing: [xing.com/in/markuskornmann](https://www.xing.com/markuskornmann/) <br>
-🌐 get-in-IT: [Profil ansehen](https://www.get-in-it.de/profil/xxxxxxxxxx) <br>
+💼 LinkedIn: [linkedin.com/in/markuskornmann](https://www.linkedin.com/in/) <br>
+💼 Xing: [xing.com/in/markuskornmann](https://www.xing.com/) <br>
+🌐 get-in-IT: [Profil ansehen](https://www.get-in-it.de/profil/) <br>
 
 ---
 
